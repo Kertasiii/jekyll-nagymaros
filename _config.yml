@@ -1,0 +1,17 @@
+title: CATATAN KERTAS
+email: kertasi@protonmail.ch
+baseurl: "/Kertasiii"
+url: "https://kertasiii.github.io"
+repository: "Kertasiii/kertasiii"
+
+markdown: kramdown
+description: Blog pribadi
+theme: minima
+plugins:
+-jekyll-feed
+-jekyll-sitemap
+
+author:
+  name: Kertasiii
+  email: kertasi@protonmail.ch
+
