@@ -22,6 +22,8 @@ Kunjungi blog di: [https://kertasiii.github.io/Catatan](https://kertasiii.github
 ## 💡 Tujuan
 Menjaga ruang ekspresi bebas tanpa identitas, namun tetap dengan integritas dan arah. Membangun dokumentasi personal terhadap peristiwa, gagasan, dan pertimbangan sosial-kritis.
 
+copy dari catatan
+
 ---
 
 Terakhir diperbarui: {{ site.time | date: "%d %B %Y" }}
