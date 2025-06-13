@@ -1,16 +1,19 @@
+# Site settings
 title: CATATAN KERTAS
 email: kertasi@protonmail.ch
-baseurl: "/Kertasiii"
+baseurl: "/kertasiii" # Perhatikan: Nama repositori harus huruf kecil dan tanpa spasi
 url: "https://kertasiii.github.io"
 repository: "Kertasiii/kertasiii"
 
+# Build settings
 markdown: kramdown
 description: Blog pribadi
 theme: minima
 plugins:
--jekyll-feed
--jekyll-sitemap
+  - jekyll-feed
+  - jekyll-sitemap
 
+# Author settings
 author:
   name: Kertasiii
   email: kertasi@protonmail.ch
